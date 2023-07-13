@@ -1,0 +1,375 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+.header{
+    display: flex;
+}
+.logo{
+    margin-left: 190px;
+    margin-top: 25px;
+    width: 100px;
+}
+.img1{
+    margin-top: -15px;
+    margin-left: 90px;
+}
+.img1 img{
+    width: 250px;
+    height: 430px;
+}
+.list{
+margin-left: 80px;
+margin-top: 25px;
+position: relative;
+
+}
+.list a{
+    list-style: none;
+    margin: 25px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+#button{
+    padding: 10px 30px;
+    background-color: rgb(39, 38, 37);
+    box-shadow: 2px 2px 2px  white inset;
+    border-radius: 5px;
+}
+ /* main section */
+
+ .main{
+   margin-left: 800px;
+   position: absolute;
+   top: 120px;
+   right: 130px;
+
+ }
+ .main img{
+    width: 400px;
+ }
+ .main h1{
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .main h3{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 45px;
+ }
+ .main p{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 25px;
+    width: 270px;
+    line-height: 35px;
+ }
+ .logo1{
+    display: flex;
+    margin-top: 20px;
+    padding: 15px 35px;
+    background-color: rgb(39, 38, 37);
+    border-radius: 2px;
+    width: 260px;
+    border-radius: 4px;
+ }
+ .logo1 img{
+    width: 20px;
+    height: 20px;
+ }
+ .logo1 a{
+    color: #fff;
+    margin-left: 20px;
+ }
+ span{
+    margin-left: 10px;
+ }
+ .section{
+    margin-top: 300px;
+    text-align: center;
+ }
+ .logo2{
+    text-align: center;
+ }
+ .logo2 img{
+    margin: 35px;
+    width: 100px;
+ }
+ .section1{
+    margin-top: 50px;
+ }
+ .box{
+    display: flex;
+    margin-left: 70px;
+ }
+ .box-box{
+    color: #fff;
+    margin-left: 250px;
+    margin-top: 26px;
+ }
+ .box1{
+    font-size: 15px;
+    text-align: start;
+    margin-left: 100px;
+    margin-top: 30px;
+ }
+ .box2{
+    font-size: 15px;
+    text-align: start;
+    margin-left: 20px;
+    margin-top: 30px;
+ }
+ .box3{
+    font-size: 15px;
+    text-align: start;
+    margin-left: 20px;
+    margin-top: 30px;
+ }
+ .box4{
+    font-size: 15px;
+    text-align: start;
+    margin-left: 100px;
+    margin-top: 30px;
+ }
+ .box4 h4{
+    width: 200px;
+ }
+ .logo3{
+    margin-left: 90px;
+    margin-top: 80px;
+ }
+ .case{
+   margin-top: 60px;
+   text-align: center;
+ }
+ .case-box{
+   margin-top: 40px;
+   text-align: center;
+   display: flex;
+   color: #fff;
+ }
+ .logo4{
+   margin-left: 350px;
+ }
+ .logo4 img{
+   width: 250px;
+ }
+ .case-cont{
+   width: 200px;
+   text-align: start;
+   margin-left: 90px;
+   margin-top: 110px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 25px;
+ }
+ .btn1{
+   display: flex;
+   margin-top: 30px;
+   padding: 10px 35px;
+   background-color: rgba(41, 40, 40, 0.795);
+   border-radius: 10px;
+   width: 180px;
+ }
+ .btn1 img{
+   width: 20px;
+   height: 20px;
+   margin-top: 5px;
+ }
+ .btn1 a{
+   text-decoration: none;
+   margin-left: 20px;
+   color: white;
+ }
+ .section2{
+   margin-top: 100px;
+   background: #e4e7e6;
+   width: 900px;
+   height: 300px;
+   margin-left: 230px;
+   background-color: rgba(41, 40, 40, 0.795);
+   border-radius: 10px;
+   display: flex;
+   color:  white;
+ }
+.cont2{
+   margin-top: 80px;
+   margin-left: 120px;
+}
+.cont2 h1{
+   width: 250px;
+   font-size: 25px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cont2 p{
+   margin-top: 20px;
+   font-size: 16px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn3{
+   margin-top: 20px;
+   padding: 10px 25px;
+   background-color: rgba(0, 0, 0, 0.966);
+   width: 150px;
+   border-radius: 5px;
+}
+.btn3 img{
+   margin-top: 5px;
+   width:  16px;
+}
+.btn3 a{
+   margin-left: 10px;
+   text-decoration: none;
+   color: #fff;
+}
+.logo5{
+   margin-left: 50px;
+   margin-top: 30px;
+}
+ .section3{
+   margin-top: 60px;
+ }
+ .logo6{
+   text-align: center;
+ }
+ .logo6 img{
+   width: 200px;
+ }
+ .product{
+   margin-top: 80px;
+ }
+ .product-box{
+   display: flex;
+   margin-left: 250px;
+ }
+ .product-box1{
+   display: flex;
+   margin-left: 250px;
+   margin-top: 100px;
+ }
+ 
+ .product1{
+   background: #1f1e1e;
+   width: 200px;
+   border-radius: 10px;
+   height: 200px;
+ }
+ .product2{
+   margin-left: 120px;
+   background-color: #252525;
+   width: 200px;
+   border-radius: 10px;
+   height: 200px;
+ }
+ .product3{
+   background: #1f1e1e;
+   width: 200px;
+   border-radius: 10px;
+   height: 200px;
+ }
+ .product4{
+   margin-left: 120px;
+   background-color: #252525;
+   width: 200px;
+   border-radius: 10px;
+   height: 200px;
+ }
+ .product5{
+   margin-left: 250px;
+   background: #1f1e1e;
+   width: 200px;
+   margin-top: 100px;
+   border-radius: 10px;
+   height: 200px;
+ }
+ .image img{
+   width: 100px;
+  margin-left: 50px;
+  margin-top: -50px;
+ }
+ .product-content1{
+   color: #fff;
+   margin-top: 50px;
+   display: flex;
+   margin-left: 20px;
+ }
+ .product-content1 h3{
+   width: 100px;
+ }
+ .image1{
+   background: #000000;
+  border-radius: 8px;
+  padding: 5px 10px;
+  margin-left: 20px;
+ }
+ .image1 img{
+   width: 25px;
+   height: 25px;
+   
+ }
+.footer{
+   margin-top: 80px;
+   height: 250px;
+   margin-left: 70px;
+}
+ .footer-list{
+   display: flex;
+   color: #fff;
+ }
+ .footer-list img{
+   margin-left: 50px;
+ }
+ .logo7 img{
+   width: 25px;
+ }
+ .footer-content{
+   margin-left: 100px;
+ }
+ .footer-content h1{
+   font-size: 25px;
+ }
+ .footer-content ul li{
+   list-style: none;
+   margin-top: 20px;
+   line-height: 10px;
+   margin-left: 10px;
+   font-size: 16px;
+ }
+ .footer-logo{
+   display: flex;
+   margin-left: 100px;
+   padding: 6px 30px;
+   background-color: #1f1e1e;
+   border-radius: 10px;
+ }
+
+ .footer-logo h1{
+  font-size: 20px;
+  color: #e4e7e6bd;
+  margin-top: 10px;
+ }
+ .content2{
+  display: flex;
+  margin-left: 40px;
+  padding: 10px 10px;
+  background-color: #000000;
+  border-radius: 10px;
+  
+ }
+ .content2 h3{
+  margin-left: 30px;
+ }
+ .link{
+  margin-top: 40px;
+  margin-left: 50px;
+ }
+ .arrow{
+  margin-left: 250px;
+ }
